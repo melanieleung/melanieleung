@@ -9,9 +9,9 @@ where I developed remote sensing skills to help generate a graphical user interf
 
 ## Some more about me:
 
-:herb: I’m currently learning SQL and geospatial Python
+:herb: I’m currently learning SQL and Python for geospatial applications
 
-:mortar_board: I graduated from the University of California, Santa Barbara with a B.S. in Environmental Studies
+:mortar_board: I graduated in 2021 from the University of California, Santa Barbara with a B.S. in Environmental Studies
 
 👯 I’m looking to collaborate on projects that use remote sensing and geographic information systems to advance our understanding of coastal resources with consideration of the impacts of climate change.
 
