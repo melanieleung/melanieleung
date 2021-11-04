@@ -3,8 +3,7 @@
 I am interested in both teaching and using spatial data science for the purposes of sustainable natural resource management.
 You can see what I am mostly up to on my [LinkedIn](https://linkedin.com/in/melaniesleung). I also occasionally tweet [@melaniesleung](https://twitter.com/melaniesleung).
 
-I recently worked on a team with NASA DEVELOP, the [Florida Transportation & Infrastructure Project](https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021),
-where I developed remote sensing skills to help generate a graphical user interface that helps monitor water quality conditions of southeastern Florida seaports.
+Since June, I've been working for NASA's DEVELOP program on aquatic remote sensing projects: the [Florida Transportation & Infrastructure Project](https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021), and the [Southern California Health & Air Quality Project]. Using satellite imagery, my team and I work to create graphical user interfaces to help monitor water quality conditions such as turbidity and harmful algal blooms.
 
 
 ## Some more about me:
@@ -13,7 +12,7 @@ where I developed remote sensing skills to help generate a graphical user interf
 
 :mortar_board: I graduated in 2021 from the University of California, Santa Barbara with a B.S. in Environmental Studies
 
-👯 I’m looking to collaborate on projects that use remote sensing and geographic information systems to advance our understanding of coastal resources with consideration of the impacts of climate change.
+👯 I’m looking to collaborate on projects that use remote sensing and geographic information systems to advance our understanding of coastal resources with consideration of climate change and how coastal communities are impacted.
 
 
 My Resume
@@ -34,11 +33,12 @@ Sep 2017 - Jun 2021
 Work Experience
 ---------------
 
-Jun 2021 - Aug 2021
+Jun 2021 - Present
 :   **[NASA DEVELOP](https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021), Team Data Manager, Ames Research Center, Mountain View, CA**
 
     - Helped generate a 20-year time series analysis for monitoring water quality along Southern Florida seaports to assess harbor deepening impacts on coral reef tracts
     - Processed and analyzed Landsat 5, 7, 8, Sentinel-2, and Aqua MODIS imagery for turbidity and sedimentation
+    - Wrote a script in Python to cross-validate remote sensing data (Aqua MODIS and VIIRS) with in situ data to assess validity in using NASA Earth observations for coastal resource monitoring
 
 Mar 2021 - July 2021
 :   **[UCSB Earth Research Institute](https://www.eri.ucsb.edu/), Research Assistant, Santa Barbara, CA**
