@@ -3,7 +3,7 @@
 I am interested in both teaching and using spatial data science for the purposes of sustainable natural resource management.
 You can see what I am mostly up to on my [LinkedIn](https://linkedin.com/in/melaniesleung). I also occasionally tweet [@melaniesleung](https://twitter.com/melaniesleung).
 
-Since June, I've been working for NASA's DEVELOP program on aquatic remote sensing projects: the [Florida Transportation & Infrastructure Project](https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021), and the [Southern California Health & Air Quality Project]. Using satellite imagery, my team and I work to create graphical user interfaces to help monitor water quality conditions such as turbidity and harmful algal blooms.
+Since June, I've been working for NASA's DEVELOP program on aquatic remote sensing projects: the [Florida Transportation & Infrastructure Project](https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021), and the [Southern California Health & Air Quality Project](https://www.devpedia.developexchange.com/dp/index.php?title=Southern_California_Health_%26_Air_Quality_ARC_Fall_2021). Using satellite imagery, my team and I work to create graphical user interfaces to help monitor water quality conditions such as turbidity and harmful algal blooms.
 
 
 ## Some more about me:
