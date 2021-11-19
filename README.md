@@ -57,7 +57,7 @@ Oct 2020 - Jun 2021
 Projects
 -----------------
 
-[Senior Thesis](https://github.com/melanieleung/whaleshipstrike-thesis)
+[Senior Thesis](https://storymaps.arcgis.com/stories/f0d58d21daba467baf4ded74c31c767f)
 :   Comparing the effectiveness of vessel speed reduction programs in reducing the risks of whale-ship strikes
 
     Advisors: Dr. Jennifer Selgrath, Dr. Ryan Freedman, Jessica Morten
