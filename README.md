@@ -3,14 +3,14 @@
 I am interested in both teaching and using spatial data science for the purposes of sustainable natural resource management.
 You can see what I am mostly up to on my [LinkedIn](https://linkedin.com/in/melaniesleung). I also occasionally tweet [@melaniesleung](https://twitter.com/melaniesleung).
 
-Since June, I've been working for NASA's DEVELOP program on aquatic remote sensing projects: the [Florida Transportation & Infrastructure Project](https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021), and the [Southern California Health & Air Quality Project](https://www.devpedia.developexchange.com/dp/index.php?title=Southern_California_Health_%26_Air_Quality_ARC_Fall_2021). Using satellite imagery, my team and I work to create graphical user interfaces to help monitor water quality conditions such as turbidity and harmful algal blooms.
+This year, I worked for NASA's DEVELOP program on aquatic remote sensing projects: the [Florida Transportation & Infrastructure Project](https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021), and the [Southern California Health & Air Quality Project](https://www.devpedia.developexchange.com/dp/index.php?title=Southern_California_Health_%26_Air_Quality_ARC_Fall_2021). Using satellite imagery, my team and I worked to create graphical user interfaces to help monitor water quality conditions such as turbidity and harmful algal blooms.
 
 
 ## Some more about me:
 
-:herb: I’m currently learning SQL and Python for geospatial applications
+:herb: I’m currently learning SQL and Python for geospatial applications. I'm interested in incorporating AI and machine learning to geospatial analysis.
 
-:mortar_board: I graduated in 2021 from the University of California, Santa Barbara with a B.S. in Environmental Studies
+:mortar_board: I graduated in spring of 2021 from the University of California, Santa Barbara with a B.S. in Environmental Studies
 
 👯 I’m looking to collaborate on projects that use remote sensing and geographic information systems to advance our understanding of coastal resources with consideration of climate change and how coastal communities are impacted.
 
