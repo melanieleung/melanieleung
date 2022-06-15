@@ -4,8 +4,8 @@ I am interested in both teaching and using spatial data science for the purposes
 You can see what I am mostly up to on my [LinkedIn](https://linkedin.com/in/melaniesleung). I also occasionally tweet [@melaniesleung](https://twitter.com/melaniesleung).
 
 Over the last year, I've been working on coastal remote sensing projects with Professor Cavanaugh's lab at UC Los Angeles, and NASA's DEVELOP program: 
-> [Florida Transportation & Infrastructure Project](https://develop.larc.nasa.gov/2021/summer/FloridaTI.html)
-> Southern California Health & Air Quality Project
+    - [Florida Transportation & Infrastructure Project](https://develop.larc.nasa.gov/2021/summer/FloridaTI.html)
+    - Southern California Health & Air Quality Project
 Using satellite imagery, my DEVELOP team and I worked to create graphical user interfaces to help monitor water quality conditions such as turbidity and harmful algal blooms.
 
 Currently, I'm working on kelp mapping and classification projects, using both satellite and UAV data. 
