@@ -4,7 +4,7 @@ I am interested in both teaching and using spatial data science for the purposes
 You can see what I am mostly up to on my [LinkedIn](https://linkedin.com/in/melaniesleung). I also occasionally tweet [@melaniesleung](https://twitter.com/melaniesleung).
 
 Over the last year, I've been working on coastal remote sensing projects with Professor Cavanaugh's lab at UC Los Angeles, and NASA's DEVELOP program: 
-> [Florida Transportation & Infrastructure Project]([https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021](https://develop.larc.nasa.gov/2021/summer/FloridaTI.html))
+> [Florida Transportation & Infrastructure Project](https://develop.larc.nasa.gov/2021/summer/FloridaTI.html)
 > Southern California Health & Air Quality Project
 Using satellite imagery, my DEVELOP team and I worked to create graphical user interfaces to help monitor water quality conditions such as turbidity and harmful algal blooms.
 
@@ -42,7 +42,7 @@ Nov 2021 - Present
     - Using a combination of spectral and machine learning methods to classify kelp in remote sensing data
     
 Jun 2021 - Nov 2021
-:   **[NASA DEVELOP]([https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021](https://develop.larc.nasa.gov/)), Project Member and Team Data Manager, Ames Research Center, Mountain View, CA**
+:   **[NASA DEVELOP](https://develop.larc.nasa.gov/)), Project Member and Team Data Manager, Ames Research Center, Mountain View, CA**
 
     - Helped generate a 20-year time series analysis for monitoring water quality along Southern Florida seaports to assess harbor deepening impacts on coral reef tracts
     - Processed and analyzed Landsat 5, 7, 8, Sentinel-2, and Aqua MODIS imagery for turbidity and sedimentation
