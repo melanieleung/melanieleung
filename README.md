@@ -1,25 +1,28 @@
 
-## Nice to meet you, I'm Melanie! 
-I am interested in both teaching and using spatial data science for the purposes of sustainable natural resource management.
+## Nice to meet you, I'm Mel! 
+I am interested in both teaching and using spatial data science for the purposes of natural resource management.
 You can see what I am mostly up to on my [LinkedIn](https://linkedin.com/in/melaniesleung). I also occasionally tweet [@melaniesleung](https://twitter.com/melaniesleung).
 
-This year, I worked for NASA's DEVELOP program on aquatic remote sensing projects: the [Florida Transportation & Infrastructure Project](https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021), and the [Southern California Health & Air Quality Project](https://www.devpedia.developexchange.com/dp/index.php?title=Southern_California_Health_%26_Air_Quality_ARC_Fall_2021). Using satellite imagery, my team and I worked to create graphical user interfaces to help monitor water quality conditions such as turbidity and harmful algal blooms.
+Over the last year, I've been working on coastal remote sensing projects with Professor Cavanaugh's lab at UC Los Angeles, and NASA's DEVELOP program: 
+> [Florida Transportation & Infrastructure Project]([https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021](https://develop.larc.nasa.gov/2021/summer/FloridaTI.html))
+> Southern California Health & Air Quality Project
+Using satellite imagery, my DEVELOP team and I worked to create graphical user interfaces to help monitor water quality conditions such as turbidity and harmful algal blooms.
 
+Currently, I'm working on kelp mapping and classification projects, using both satellite and UAV data. 
 
 ## Some more about me:
 
-:herb: I’m currently learning SQL and Python for geospatial applications. I'm interested in incorporating AI and machine learning to geospatial analysis.
+:herb: I am an instructor with [The Carpentries](https://carpentries.org/). I mostly lead and/or co-teach workshops on the fundamentals of Python and R.
 
 :mortar_board: I graduated in spring of 2021 from the University of California, Santa Barbara with a B.S. in Environmental Studies
 
-👯 I’m looking to collaborate on projects that use remote sensing and geographic information systems to advance our understanding of coastal resources with consideration of climate change and how coastal communities are impacted.
+👯 I’m interested in using remote sensing and geographic information systems to advance our understanding of coastal resources with the consideration of climate change and its impacts on coastal communities.
 
 
 My Resume
 ===========
 
-> [leungmelanie.s@gmail.com](mailto:username@domain.com) |
-> (858) 205-8848 |
+> [leungmelanie.s@gmail.com](mailto:leungmelanie.s@gmail.com) |
 > [Portfolio](https://melanieleung.wixsite.com/portfolio) 
 
 Education
@@ -32,9 +35,14 @@ Sep 2017 - Jun 2021
 
 Work Experience
 ---------------
+Nov 2021 - Present
+:   **UC Los Angeles, Remote Sensing Technician, Los Angeles, CA**
 
-Jun 2021 - Present
-:   **[NASA DEVELOP](https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021), Team Data Manager, Ames Research Center, Mountain View, CA**
+    - Collecting, processing, and analyzing UAV (drone) imagery of kelp canopy coverage along the California coast
+    - Using a combination of spectral and machine learning methods to classify kelp in remote sensing data
+    
+Jun 2021 - Nov 2021
+:   **[NASA DEVELOP]([https://www.devpedia.developexchange.com/dp/index.php?title=Florida_Transportation_%26_Infrastructure_ARC_Summer_2021](https://develop.larc.nasa.gov/)), Project Member and Team Data Manager, Ames Research Center, Mountain View, CA**
 
     - Helped generate a 20-year time series analysis for monitoring water quality along Southern Florida seaports to assess harbor deepening impacts on coral reef tracts
     - Processed and analyzed Landsat 5, 7, 8, Sentinel-2, and Aqua MODIS imagery for turbidity and sedimentation
@@ -69,7 +77,7 @@ Skills
 ------
 
 :computer: **Programming**
-:   R, Python, JavaScript, SQL
+:   R, Python, JavaScript, SQL, MatLab
 
 :globe_with_meridians: **GIS**
 :   ArcGIS Pro, QGIS, Google Earth Engine
