@@ -1,7 +1,6 @@
 
 ## Nice to meet you, I'm Mel! 
-I am interested in both teaching and using spatial data science for the purposes of natural resource management.
-You can see what I am mostly up to on my [LinkedIn](https://linkedin.com/in/melaniesleung). I also occasionally tweet [@melaniesleung](https://twitter.com/melaniesleung).
+I am interested in using spatial data science for the purposes of natural resource management and climate change-related research.
 
 Over the last year, I've been working on coastal remote sensing projects with Professor Cavanaugh's lab at UC Los Angeles, and NASA's DEVELOP program: 
 
@@ -79,7 +78,7 @@ Skills
 ------
 
 :computer: **Programming**
-:   R, Python, JavaScript, SQL, MatLab
+:   R, Python, MatLAB
 
 :globe_with_meridians: **GIS**
 :   ArcGIS Pro, QGIS, Google Earth Engine
