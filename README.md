@@ -33,11 +33,12 @@ Sep 2017 - Jun 2021
 
 Work Experience
 ---------------
-Nov 2021 - Present
-:   **UC Los Angeles, Remote Sensing Technician, Los Angeles, CA**
+Nov 2021 - Dec 2022
+:   **University of California, Los Angeles, Remote Sensing Technician, Los Angeles, CA**
 
-    - Collecting, processing, and analyzing UAV (drone) imagery of kelp canopy coverage along the California coast
-    - Using a combination of spectral and machine learning methods to classify kelp in remote sensing data
+    - Collected, processed, and analyzed UAV (drone) imagery of kelp canopy coverage along the California coast
+    - Used a combination of spectral and machine learning methods to classify kelp in remote sensing data
+    - Planned and operated UAV flights with the purpose of collecting data for long term research project
     
 Jun 2021 - Nov 2021
 :   **[NASA DEVELOP](https://develop.larc.nasa.gov/), Project Member and Team Data Manager, Ames Research Center, Mountain View, CA**
