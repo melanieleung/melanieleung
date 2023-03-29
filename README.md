@@ -1,23 +1,20 @@
 
 ## Nice to meet you, I'm Mel! 
-I am interested in using spatial data science for the purposes of natural resource management and climate change-related research.
+I am interested in using spatial data science methods for the purposes of supporting data-driven decision making. 
 
-Over the last year, I've been working on coastal remote sensing projects with Professor Cavanaugh's lab at UC Los Angeles, and NASA's DEVELOP program: 
+Over the last few years, I worked on coastal remote sensing projects with Professor Cavanaugh's lab at UC Los Angeles, and NASA's DEVELOP program: 
 
 - [Florida Transportation & Infrastructure Project](https://appliedsciences.nasa.gov/what-we-do/projects/monitoring_water_quality_along_southern_florida_seaports_to_assess_impact_on_coral_reef_tracts_from_harbor_deepening_projects)
 - [Southern California Health & Air Quality Project](https://appliedsciences.nasa.gov/what-we-do/projects/using-remote-sensing-detect-frequency-and-drivers-red-tide-blooms-california)
     
-Using satellite imagery, my DEVELOP team and I worked to create graphical user interfaces to help monitor water quality conditions such as turbidity and harmful algal blooms.
-
-Currently, I'm working on kelp mapping and classification projects, using both satellite and UAV data. 
+Currently, I'm working on further advancing my geospatial analysis and cartography skills to create interactive maps and charts. It's a work in progress but I recently
+started building a [R Shiny App](https://melanieleung.shinyapps.io/thailandtrip/) to visualize and document my solo travel journey through Thailand.
 
 ## Some more about me:
 
 :herb: I am an instructor with [The Carpentries](https://carpentries.org/). I mostly lead and/or co-teach workshops on the fundamentals of Python and R.
 
-:mortar_board: I graduated in spring of 2021 from the University of California, Santa Barbara with a B.S. in Environmental Studies
-
-👯 I’m interested in using remote sensing and geographic information systems to advance our understanding of coastal resources with the consideration of climate change and its impacts on coastal communities.
+👯 I’m interested in learning more about how to apply creative graphic design skills that I've learned in the past (see [portfolio](https://melanieleung.wixsite.com/portfolio/projects)) towards developing visually appealing and informative maps.
 
 
 My Resume
