@@ -8,7 +8,8 @@ Over the last few years, I worked on coastal remote sensing projects with Profes
 - [Southern California Health & Air Quality Project](https://appliedsciences.nasa.gov/what-we-do/projects/using-remote-sensing-detect-frequency-and-drivers-red-tide-blooms-california)
     
 Currently, I'm working on further advancing my geospatial analysis and cartography skills to create interactive maps and charts. It's a work in progress but I recently
-started building a [R Shiny App](https://melanieleung.shinyapps.io/thailandtrip/) to visualize and document my solo travel journey through Thailand.
+started building a [R Shiny App](https://melanieleung.shinyapps.io/thailandtrip/) to visualize and document my solo travel journey through Thailand. In my free time I've been playing around with Mapbox to create diverse mapping applications: 
+- [Heatmap of Meteorite Strike Data](https://api.mapbox.com/styles/v1/melaniesleung/clfv0189l006m01rpd399qeib.html?title=view&access_token=pk.eyJ1IjoibWVsYW5pZXNsZXVuZyIsImEiOiJjbGZ0YXR2aWMwNTVqM3FxaWxxbDNjd252In0.FaWof3PkPJljwiltrXOYoQ&zoomwheel=true&fresh=true#3.2/40.14/-96.29)
 
 ## Some more about me:
 
