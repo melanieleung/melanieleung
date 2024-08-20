@@ -35,6 +35,13 @@ Sep 2017 - Jun 2021
 
 Work Experience
 ---------------
+Jul 2023 - Present
+:   **AECOM, GIS Specialist I, San Diego, CA**
+
+    - Supporting biologists, environmental compliance & permitting, geologists, and transportation planners with spatial impact analyses and UAS data collection/photogrammetry processing needs
+    - Preparing data for display in online and static maps using ESRI ArcGIS Online products
+    - Utilizing ArcPy to automate and streamline data management and complex spatial queries
+
 Nov 2021 - Dec 2022
 :   **University of California, Los Angeles, Remote Sensing Technician, Los Angeles, CA**
 
@@ -49,12 +56,6 @@ Jun 2021 - Nov 2021
     - Processed and analyzed Landsat 5, 7, 8, Sentinel-2, and Aqua MODIS imagery for turbidity and sedimentation
     - Wrote a script in Python to cross-validate remote sensing data (Aqua MODIS and VIIRS) with in situ data to assess validity in using NASA Earth observations for coastal resource monitoring
 
-Mar 2021 - July 2021
-:   **[UCSB Earth Research Institute](https://www.eri.ucsb.edu/), Research Assistant, Santa Barbara, CA**
-
-    - Assisted Dr. Andrew MacDonald with NSF-funded research focused on modeling the spread of COVID-19 and understanding risk factors for transmission in the US
-    - Used ArcGIS Pro to manage and analyze data on California smoke and wildfires, with the use of ModelBuilder to make reproducible workflows
-    - Curated maps to visualize the relationship between California wildfires and the spread of COVID-19
     
 Oct 2020 - Jun 2021
 :   **[National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/arctic-data-center), Data Intern, Santa Barbara, CA**
