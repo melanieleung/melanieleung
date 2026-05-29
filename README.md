@@ -4,7 +4,7 @@ I am interested in using spatial data science methods for the purposes of suppor
 
 Over the last few years, I worked on coastal remote sensing projects with Professor Cavanaugh's lab at UC Los Angeles, and NASA's DEVELOP program: 
 
-- [Florida Transportation & Infrastructure Project](https://appliedsciences.nasa.gov/what-we-do/projects/monitoring_water_quality_along_southern_florida_seaports_to_assess_impact_on_coral_reef_tracts_from_harbor_deepening_projects)
+- [Florida Transportation & Infrastructure Project](https://storymaps.arcgis.com/stories/16065a51db434d608e7d9a0fdd6bc373)
 - [Southern California Health & Air Quality Project](https://appliedsciences.nasa.gov/what-we-do/projects/using-remote-sensing-detect-frequency-and-drivers-red-tide-blooms-california)
     
 Currently, I'm working on further advancing my geospatial analysis and cartography skills to create interactive maps and charts. It's a work in progress but I recently
